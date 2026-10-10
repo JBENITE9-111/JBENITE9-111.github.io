@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://times-of-the-world.vercel.app/sitemap.xml
+Sitemap: https://times-of-the-world.vercel.app/news-sitemap.xml
