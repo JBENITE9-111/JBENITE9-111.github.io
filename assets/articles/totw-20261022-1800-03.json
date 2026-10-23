@@ -1,0 +1,41 @@
+{
+ "item_id": "totw-20261022-1800-03",
+ "headline": "UPDATE to totw-20261022-1100-03",
+ "dek": "Coalition forces intercepted and destroyed 4 drones in the regions of Riyadh and Medina. NOTE: may overlap with the '7 drones in 24h (southern, eastern regions, Madinah)' briefing logged at 11:00 — treat as the same incident stream re-broken-out, NOT as 11 separate interceptions, until a distinct…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Saudi-led coalition spokesman Col. Turki Al-Maliki, via Al Jazeera liveblog",
+ "fault_line": "Carried from 1200-03/1600-02: expat victims vs 'who failed the shield' blame game.",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-10-22",
+ "sections": {
+  "what_happened": "Coalition forces intercepted and destroyed 4 drones in the regions of Riyadh and Medina. NOTE: may overlap with the '7 drones in 24h (southern, eastern regions, Madinah)' briefing logged at 11:00 — treat as the same incident stream re-broken-out, NOT as 11 separate interceptions, until a distinct briefing distinguishes them.",
+  "what_verified": "Official coalition spokesman; consistent with the 11:00 scan's 7-drone briefing covering Madinah region.",
+  "what_disputed": "Ansar Allah deny responsibility for deep strikes; no Ansar Allah claim on these specific 4.",
+  "why_matters": "Bookkeeping update only — the Riyadh/Medina interception geography confirms the threat envelope now covers the kingdom's holy-city belt and capital; do not present as a separate attack wave from the 7-drone briefing.",
+  "context": "Background: UPDATE to totw-20261022-1100-03 — Saudi-led coalition: 4 drones intercepted over Riyadh and Medina (Al Jazeera liveblog, 11:53 GMT)"
+ },
+ "totw_analysis": "Our read: Bookkeeping update only — the Riyadh/Medina interception geography confirms the threat envelope now covers the kingdom's holy-city belt and capital; do not present as a separate attack wave from the 7-drone briefing. The fault line our audience is arguing over: Carried from 1200-03/1600-02: expat victims vs 'who failed the shield' blame game.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1683,
+ "audio_chunks": [
+  "/assets/audio/totw-20261022-1800-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-12.mp3.b64",
+  "/assets/audio/totw-20261022-1800-03/full-13.mp3.b64"
+ ],
+ "audio_duration_secs": 127,
+ "audio_minutes": 2.1
+}
