@@ -1,0 +1,43 @@
+{
+ "item_id": "totw-20261022-2100-05",
+ "headline": "Yandex (x3), Sberbank, VKontakte damaged",
+ "dek": "Ukraine this month hit three Yandex data centers, one Sberbank, one VKontakte with drone attacks. Companies coy on damage, but widespread lasting disruptions: banking, e-commerce, geolocation, ride-hailing, Yandex's Alisa assistant, multimodal AI chatbots; arbitration courts canceling/postponing…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "AP via New Indian Express",
+ "fault_line": "Strategic infrastructure or civilian harm — when does hitting a data center become a cyberattack on civilians?",
+ "significance": 3,
+ "demand": 3,
+ "date_led": "2026-10-22",
+ "sections": {
+  "what_happened": "Ukraine this month hit three Yandex data centers, one Sberbank, one VKontakte with drone attacks. Companies coy on damage, but widespread lasting disruptions: banking, e-commerce, geolocation, ride-hailing, Yandex's Alisa assistant, multimodal AI chatbots; arbitration courts canceling/postponing sessions. Experts: repairs could take months if not years. Mikhail Klimarev (Internet Protection Society): 'This effectively sets Russia far behind in the AI race.' Data centers now targeted by both sides.",
+  "what_verified": "AP original reporting; consistent with prior scan coverage of Ukrainian refinery/data strikes.",
+  "what_disputed": "Yandex, Sberbank, VKontakte have not confirmed the extent of damage; repair timelines are expert estimates.",
+  "why_matters": "The war went digital: Ukraine took Russia's internet backbone offline and the courts felt it. Map the five targets, show what stopped working for ordinary Russians, keep company non-confirmation on screen as a label.",
+  "context": "Background: Ukraine hits Russian data centers — Yandex (x3), Sberbank, VKontakte damaged; banking/e-commerce/courts disrupted, repair could take years (AP)"
+ },
+ "totw_analysis": "Our read: The war went digital: Ukraine took Russia's internet backbone offline and the courts felt it. Map the five targets, show what stopped working for ordinary Russians, keep company non-confirmation on screen as a label. The fault line our audience is arguing over: Strategic infrastructure or civilian harm — when does hitting a data center become a cyberattack on civilians?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1913,
+ "audio_chunks": [
+  "/assets/audio/totw-20261022-2100-05/full-00.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-01.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-02.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-03.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-04.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-05.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-06.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-07.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-08.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-09.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-10.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-11.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-12.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-13.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-14.mp3.b64",
+  "/assets/audio/totw-20261022-2100-05/full-15.mp3.b64"
+ ],
+ "audio_duration_secs": 145,
+ "audio_minutes": 2.4
+}

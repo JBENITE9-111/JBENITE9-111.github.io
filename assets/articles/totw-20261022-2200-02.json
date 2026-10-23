@@ -1,0 +1,42 @@
+{
+ "item_id": "totw-20261022-2200-02",
+ "headline": "Two killed in Israeli airstrike on vehicle in southern Gaza City (Tel Al-Hawa); one man killed on a bike in Khan Yunis; one woman",
+ "dek": "Two killed in Israeli airstrike on vehicle in southern Gaza City (Tel Al-Hawa); one man killed on a bike in Khan Yunis; one woman killed by gunfire near Jabalya camp. IDF said it struck a Hamas militant in Khan Yunis; checking Tel Al-Hawa/Jabalya reports.",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Gaza health officials via Haaretz; Reuters; IDF statement",
+ "fault_line": "Is this still a ceasefire, or a war that never stopped? (Guardian editorial: 'ceasefires that aren't')",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-10-22",
+ "sections": {
+  "what_happened": "Two killed in Israeli airstrike on vehicle in southern Gaza City (Tel Al-Hawa); one man killed on a bike in Khan Yunis; one woman killed by gunfire near Jabalya camp. IDF said it struck a Hamas militant in Khan Yunis; checking Tel Al-Hawa/Jabalya reports. Gaza Health Ministry: >=1,500 killed since ceasefire; Israel: 4 soldiers killed.",
+  "what_verified": "Haaretz + Reuters (citing medics) + Al Jazeera/Quds News (citing Al-Shifa officials). Reuters photo (Dawoud Abu Alkas) of burning vehicle wreckage in Gaza City.",
+  "what_disputed": "IDF only confirms the Khan Yunis strike as a Hamas militant; other two incidents under check. Israel says military leaders pushing to resume war (Israel Army Radio via Guardian editorial) — contested internally, not a confirmed decision.",
+  "why_matters": "Continuation beat: count the violations, name the method (drone on vehicle, gunfire, bike strike). Ceasefire violations alone: 1,534 killed, 5,486 injured (Gaza Health Ministry).",
+  "context": "Background: Gaza — UPDATE: 4 Palestinians killed by IDF in Gaza on Thursday (Haaretz); strikes persist under ceasefire"
+ },
+ "totw_analysis": "Our read: Continuation beat: count the violations, name the method (drone on vehicle, gunfire, bike strike). Ceasefire violations alone: 1,534 killed, 5,486 injured (Gaza Health Ministry). The fault line our audience is arguing over: Is this still a ceasefire, or a war that never stopped? (Guardian editorial: 'ceasefires that aren't')",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1869,
+ "audio_chunks": [
+  "/assets/audio/totw-20261022-2200-02/full-00.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-01.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-02.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-03.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-04.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-05.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-06.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-07.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-08.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-09.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-10.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-11.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-12.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-13.mp3.b64",
+  "/assets/audio/totw-20261022-2200-02/full-14.mp3.b64"
+ ],
+ "audio_duration_secs": 141,
+ "audio_minutes": 2.4
+}

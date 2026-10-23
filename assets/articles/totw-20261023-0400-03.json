@@ -1,0 +1,43 @@
+{
+ "item_id": "totw-20261023-0400-03",
+ "headline": "Saudi-led coalition intercepted two drones heading for the southern region",
+ "dek": "Reuters: the Saudi-led coalition said it intercepted and destroyed two drones launched toward Saudi Arabia's southern region (22:12 GMT Oct 22); no attribution of launcher, no casualties/damage reported. Separately, Yemen's internationally recognized government's military media center posted video…",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "Reuters (via anewz live tracker); Al Jazeera liveblog (Yemen army media center)",
+ "fault_line": "Are the Ansar Allah attacks working — or is the coalition swatting them down while Yemen's government advances on the ground?",
+ "significance": 2,
+ "demand": 2,
+ "date_led": "2026-10-23",
+ "sections": {
+  "what_happened": "Reuters: the Saudi-led coalition said it intercepted and destroyed two drones launched toward Saudi Arabia's southern region (22:12 GMT Oct 22); no attribution of launcher, no casualties/damage reported. Separately, Yemen's internationally recognized government's military media center posted video claiming drone strikes on Ansar Allah barracks and combat vehicles in al-Jawf (north) and on southern fronts, under 'Operation Dawn of Yemen' (announced Oct 4; offensive launched Oct 5 to retake Sanaa). Both items missed by the 0300 scan.",
+  "what_verified": "Intercepts: Reuters single-wire (via anewz tracker) — no independent second source this window. Yemen army video: the government's own military media account (primary-source claim), no independent verification of hits.",
+  "what_disputed": "No attribution given for the two drones; Ansar Allah claims (Yahya Saree: four attacks in 48h on Riyadh/Dammam/Yanbu/Abha) are the group's own claims, unverified. The al-Jawf strike footage is unconfirmed by any independent outlet.",
+  "why_matters": "Theater update only: two drones down, no damage — the attrition continues on both sides. Keep as running-log context for the next real development.",
+  "context": "Background: CAUGHT-UP: Saudi-led coalition intercepted two drones heading for the southern region (Reuters, 22:12 GMT Oct 22); Yemen government posts \"Dawn of Yemen\" drone-strike video on Ansar Allah positions"
+ },
+ "totw_analysis": "Our read: Theater update only: two drones down, no damage — the attrition continues on both sides. Keep as running-log context for the next real development. The fault line our audience is arguing over: Are the Ansar Allah attacks working — or is the coalition swatting them down while Yemen's government advances on the ground?",
+ "related_short_title": "1,015 Drones in One Night — Ukraine's Biggest Strike of the Year Hits St. Petersburg",
+ "related_short_url": "https://youtube.com/shorts/JRIv4CBsazk",
+ "narration_chars": 2163,
+ "audio_chunks": [
+  "/assets/audio/totw-20261023-0400-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-12.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-13.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-14.mp3.b64",
+  "/assets/audio/totw-20261023-0400-03/full-15.mp3.b64"
+ ],
+ "audio_duration_secs": 151,
+ "audio_minutes": 2.5
+}
