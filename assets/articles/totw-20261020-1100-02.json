@@ -1,0 +1,35 @@
+{
+ "item_id": "totw-20261020-1100-02",
+ "headline": "Trump accuses Iranian regime of killing 75,000 protesters",
+ "dek": "US President Donald Trump accused the Iranian regime of killing 75,000 protesters.",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "Jerusalem Post live blog (reporting Trump accusation)",
+ "fault_line": "Is the number real, or justification for the next strike round?",
+ "significance": 3,
+ "demand": 3,
+ "date_led": "2026-10-20",
+ "sections": {
+  "what_happened": "US President Donald Trump accused the Iranian regime of killing 75,000 protesters.",
+  "what_verified": "Statement attribution per JPost live; fits Trump's ongoing 'economically and militarily' pressure posture.",
+  "what_disputed": "The 75,000 figure itself is unverified — no independent casualty count cited; no other wire corroboration found in-window.",
+  "why_matters": "Attribute strictly: 'Trump claims...'. Do not state the figure as fact; demand the evidence on screen.",
+  "context": "Background: Trump accuses Iranian regime of killing 75,000 protesters"
+ },
+ "totw_analysis": "Our read: Attribute strictly: 'Trump claims...'. Do not state the figure as fact; demand the evidence on screen. The fault line our audience is arguing over: Is the number real, or justification for the next strike round?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 961,
+ "audio_chunks": [
+  "/assets/audio/totw-20261020-1100-02/full-00.mp3.b64",
+  "/assets/audio/totw-20261020-1100-02/full-01.mp3.b64",
+  "/assets/audio/totw-20261020-1100-02/full-02.mp3.b64",
+  "/assets/audio/totw-20261020-1100-02/full-03.mp3.b64",
+  "/assets/audio/totw-20261020-1100-02/full-04.mp3.b64",
+  "/assets/audio/totw-20261020-1100-02/full-05.mp3.b64",
+  "/assets/audio/totw-20261020-1100-02/full-06.mp3.b64",
+  "/assets/audio/totw-20261020-1100-02/full-07.mp3.b64"
+ ],
+ "audio_duration_secs": 76,
+ "audio_minutes": 1.3
+}

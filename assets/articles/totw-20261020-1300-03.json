@@ -1,0 +1,42 @@
+{
+ "item_id": "totw-20261020-1300-03",
+ "headline": "IRGC flags 7 undersea internet cables under the Strait of Hormuz",
+ "dek": "IRGC highlighted seven major undersea internet cables crossing the Strait of Hormuz and warned Tehran could target critical infrastructure including data centers and AI facilities as tensions with Washington persist. (Context: Mohebbi also issued 'scorched earth' threat re any attack on Iran's…",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "IRGC officials incl. spokesman Hossein Mohebbi (via Iranian media; relays: Tribune.com.pk, Yeni Safak, African Manager/WWN)",
+ "fault_line": "The internet itself as a war target: Iran flags 7 cables under Hormuz and warns data centers and AI facilities are on its list. Deterrence, or desperation — and who actually gets hurt if the cables go?",
+ "significance": 3,
+ "demand": 3,
+ "date_led": "2026-10-20",
+ "sections": {
+  "what_happened": "IRGC highlighted seven major undersea internet cables crossing the Strait of Hormuz and warned Tehran could target critical infrastructure including data centers and AI facilities as tensions with Washington persist. (Context: Mohebbi also issued 'scorched earth' threat re any attack on Iran's energy infrastructure, per JFeed.)",
+  "what_verified": "Tribune.com.pk, Yeni Safak, African Manager/WWN. Related: ET Now relay (adviser to Supreme Leader Mojtaba Khamenei warned Tehran could target nine countries if US launches further attacks on Iranian bases/petrochemical facilities).",
+  "what_disputed": "Threat rhetoric — no evidence of capability or intent beyond statements. Cable map not independently checked.",
+  "why_matters": "Everyone watches the oil. Iran just pointed at something else: the seven undersea internet cables under the Strait of Hormuz — plus data centers and AI facilities. Iran-side framing: the chokepoint isn't just oil anymore; it's the world's bandwidth.",
+  "context": "Background: IRGC flags 7 undersea internet cables under the Strait of Hormuz; warns of new targets incl. data centers and AI facilities"
+ },
+ "totw_analysis": "Our read: Everyone watches the oil. Iran just pointed at something else: the seven undersea internet cables under the Strait of Hormuz — plus data centers and AI facilities. Iran-side framing: the chokepoint isn't just oil anymore; it's the world's bandwidth. The fault line our audience is arguing over: The internet itself as a war target: Iran flags 7 cables under Hormuz and warns data centers and AI facilities are on its list. Deterrence, or desperation — and who actually gets hurt if the cables go?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2038,
+ "audio_chunks": [
+  "/assets/audio/totw-20261020-1300-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-12.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-13.mp3.b64",
+  "/assets/audio/totw-20261020-1300-03/full-14.mp3.b64"
+ ],
+ "audio_duration_secs": 142,
+ "audio_minutes": 2.4
+}
