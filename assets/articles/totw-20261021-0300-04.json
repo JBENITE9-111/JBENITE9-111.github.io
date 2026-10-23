@@ -1,0 +1,34 @@
+{
+ "item_id": "totw-20261021-0300-04",
+ "headline": "IDF releases footage of Hezbollah moving weapons",
+ "dek": "The IDF published footage it says shows Hezbollah operatives moving weapons in southern Lebanon that the Lebanese Army was supposed to have seized; after the footage release the IAF struck the assets. The IDF accuses the Lebanese Army of lying about enforcement during the 10-day ceasefire.",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "IDF Spokesperson's Unit, reported by JPost (Yonah Jeremy Bob)",
+ "fault_line": "Is Hezbollah rearming under the ceasefire (Israel's evidence) — or is Israel using 'enforcement' as cover to entrench a permanent buffer zone in south Lebanon?",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-10-20",
+ "sections": {
+  "what_happened": "The IDF published footage it says shows Hezbollah operatives moving weapons in southern Lebanon that the Lebanese Army was supposed to have seized; after the footage release the IAF struck the assets. The IDF accuses the Lebanese Army of lying about enforcement during the 10-day ceasefire.",
+  "what_verified": "Reported by the sources listed below; independent verification ongoing.",
+  "what_disputed": "No counter-evidence recorded in this scan.",
+  "why_matters": "",
+  "context": "Background: IDF releases footage of Hezbollah moving weapons"
+ },
+ "totw_analysis": "Our read: The fault line our audience is arguing over: still forming.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 990,
+ "audio_chunks": [
+  "/assets/audio/totw-20261021-0300-04/full-00.mp3.b64",
+  "/assets/audio/totw-20261021-0300-04/full-01.mp3.b64",
+  "/assets/audio/totw-20261021-0300-04/full-02.mp3.b64",
+  "/assets/audio/totw-20261021-0300-04/full-03.mp3.b64",
+  "/assets/audio/totw-20261021-0300-04/full-04.mp3.b64",
+  "/assets/audio/totw-20261021-0300-04/full-05.mp3.b64",
+  "/assets/audio/totw-20261021-0300-04/full-06.mp3.b64"
+ ],
+ "audio_duration_secs": 66,
+ "audio_minutes": 1.1
+}
