@@ -1,0 +1,40 @@
+{
+ "item_id": "totw-20261023-1100-03",
+ "headline": "Trump refuses to confirm but says 'bottom line, he put it back'",
+ "dek": "WSJ reported Trump pressured Elon Musk to restore Ukraine's access to Starlink after a brief pause widely seen as pressure on Kyiv over Moscow's territorial demands. Trump refused to confirm the report on Thursday; hours after Zelensky claimed Starlink speeds were still lagging, Trump said service…",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "The Wall Street Journal (via The Times); Trump remarks to reporters Thursday",
+ "fault_line": "Meme-frame: 'Should slowing Starlink be considered a war crime?' (1.8K likes/370 comments FB) vs 'America owes Ukraine nothing' -- the civilian-leverage question is the fault line.",
+ "significance": 2,
+ "demand": 5,
+ "date_led": "2026-10-23",
+ "sections": {
+  "what_happened": "WSJ reported Trump pressured Elon Musk to restore Ukraine's access to Starlink after a brief pause widely seen as pressure on Kyiv over Moscow's territorial demands. Trump refused to confirm the report on Thursday; hours after Zelensky claimed Starlink speeds were still lagging, Trump said service had been restored: 'Bottom line, he put it back.'",
+  "what_verified": "The pressure claim is WSJ-anonymous-sourcing only; the restoration is Trump on-record. Zelensky's lag claim vs Trump's restored claim conflict on current state.",
+  "what_disputed": "Trump would neither confirm nor deny the pressure report; no independent verification of the pressure call.",
+  "why_matters": "A private tech CEO holds a lever on a country's drone defence and the US president personally lobbied him -- frame as the Starlink dependency, not the palace intrigue.",
+  "context": "Background: NEW -- WSJ: Trump pressured Musk to restore Ukraine Starlink; Trump refuses to confirm but says 'bottom line, he put it back'"
+ },
+ "totw_analysis": "Our read: A private tech CEO holds a lever on a country's drone defence and the US president personally lobbied him -- frame as the Starlink dependency, not the palace intrigue. The fault line our audience is arguing over: Meme-frame: 'Should slowing Starlink be considered a war crime?' (1.8K likes/370 comments FB) vs 'America owes Ukraine nothing' -- the civilian-leverage question is the fault line.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1804,
+ "audio_chunks": [
+  "/assets/audio/totw-20261023-1100-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261023-1100-03/full-12.mp3.b64"
+ ],
+ "audio_duration_secs": 124,
+ "audio_minutes": 2.1
+}

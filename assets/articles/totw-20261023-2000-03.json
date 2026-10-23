@@ -1,0 +1,42 @@
+{
+ "item_id": "totw-20261023-2000-03",
+ "headline": "No tankers at Kharg Island since late August, longest hiatus since the war began (Reuters/Kpler/Vortexa)",
+ "dek": "Analysis of EU ship-tracking data and satellite imagery shows no crude tankers at Iran's Kharg Island export terminal since late August — the longest hiatus since US-Iran tensions escalated in February. Iran's crude exports fell from nearly 1 million bpd in July to zero by late August; United…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Reuters satellite review (EU Sentinel 1/2), Kpler and Vortexa data (reported via xe.today)",
+ "fault_line": "The blockade works — but whose bill is it: Tehran's, or your fuel bill?",
+ "significance": 3,
+ "demand": 4,
+ "date_led": "2026-10-23",
+ "sections": {
+  "what_happened": "Analysis of EU ship-tracking data and satellite imagery shows no crude tankers at Iran's Kharg Island export terminal since late August — the longest hiatus since US-Iran tensions escalated in February. Iran's crude exports fell from nearly 1 million bpd in July to zero by late August; United Against Nuclear Iran reports no crude tankers have left Iran since mid-July. Jask port east of the Strait also shows no tankers. Chinese refiners are hunting alternative crude, pushing prices and freight rates up.",
+  "what_verified": "Reuters satellite imagery review; Kpler and Vortexa export data; United Against Nuclear Iran tanker tracking",
+  "what_disputed": "Small-volume/shadow-fleet transshipments off-book cannot be fully ruled out by satellite alone; Jask handles only a small export share",
+  "why_matters": "Zero. Iran's oil exports have flatlined. The naval blockade is doing exactly what it was built to do — and your fuel pump is where the invoice lands.",
+  "context": "Background: NEW -- Iran's crude exports flatline to ZERO: no tankers at Kharg Island since late August, longest hiatus since the war began (Reuters/Kpler/Vortexa)"
+ },
+ "totw_analysis": "Our read: Zero. Iran's oil exports have flatlined. The naval blockade is doing exactly what it was built to do — and your fuel pump is where the invoice lands. The fault line our audience is arguing over: The blockade works — but whose bill is it: Tehran's, or your fuel bill?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1854,
+ "audio_chunks": [
+  "/assets/audio/totw-20261023-2000-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-12.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-13.mp3.b64",
+  "/assets/audio/totw-20261023-2000-03/full-14.mp3.b64"
+ ],
+ "audio_duration_secs": 139,
+ "audio_minutes": 2.3
+}
