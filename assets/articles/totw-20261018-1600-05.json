@@ -1,0 +1,40 @@
+{
+ "item_id": "totw-20261018-1600-05",
+ "headline": "CNN reports 11 killed, ~50 injured in Russian counter-strikes incl. Odesa energy",
+ "dek": "11 killed, nearly 50 injured across Ukraine in Russian missile/drone attacks in 24h to Sunday morning, incl. 'massive attack on energy facilities' in Odesa.",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "CNN; Zelensky X posts; St Petersburg governor; US government",
+ "fault_line": "Is the diesel deal pragmatism that ends the war — or cash that funds Russia's strikes?",
+ "significance": 2,
+ "demand": 4,
+ "date_led": "2026-10-18",
+ "sections": {
+  "what_happened": "11 killed, nearly 50 injured across Ukraine in Russian missile/drone attacks in 24h to Sunday morning, incl. 'massive attack on energy facilities' in Odesa. Zelensky: Russia has hit Ukraine's energy and oil-gas sectors 76 times since Trump announced the energy ceasefire a week ago. Starlink curbs on Ukrainian battlefield drones continue (Trump admin denies restriction). Trump waived sanctions on Russian diesel imports and Friday invoked a waiver exempting Russia from sweeping economic penalties mandated by Congress. St Petersburg governor: 1 killed, 5 injured in Ukrainian drone attack; Finland imposed flight curbs during the attack.",
+  "what_verified": "Casualty and strike data from Ukrainian authorities via CNN; diesel waiver consistent with 0500-01 EO item and playbook tier-1 diesel-deal demand; St Petersburg figures consistent with earlier coverage.",
+  "what_disputed": "Trump administration denies restricting Starlink service; Russian MoD claims 200+ Ukrainian drones downed and major battlefield gains (unverified).",
+  "why_matters": "",
+  "context": "Background: Russia/Ukraine — UPDATE (extends 1100-02/1400-05): CNN reports 11 killed, ~50 injured in Russian counter-strikes incl. Odesa energy; Trump diesel waiver detail"
+ },
+ "totw_analysis": "Our read: The fault line our audience is arguing over: Is the diesel deal pragmatism that ends the war — or cash that funds Russia's strikes?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1657,
+ "audio_chunks": [
+  "/assets/audio/totw-20261018-1600-05/full-00.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-01.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-02.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-03.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-04.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-05.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-06.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-07.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-08.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-09.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-10.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-11.mp3.b64",
+  "/assets/audio/totw-20261018-1600-05/full-12.mp3.b64"
+ ],
+ "audio_duration_secs": 123,
+ "audio_minutes": 2.0
+}

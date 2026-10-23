@@ -1,0 +1,42 @@
+{
+ "item_id": "totw-20261018-2200-02",
+ "headline": "Zelensky confirms US intel sharing resumed after ~3-day blackout",
+ "dek": "Zelensky: US intel on incoming Russian ballistic missiles was blocked ~3 days ('We didn't see attacks'), then 'de-blocked by the American side. Now it works.' Starshield (militarized Starlink) speed restrictions continue; Zelensky does not know if Trump or Musk ordered them, believes 'both'…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Zelensky on NBC Meet the Press; Kyiv Independent; NY Post",
+ "fault_line": "Should the US hold back intelligence to pressure Ukraine into stopping refinery strikes — or is that siding with Russia?",
+ "significance": 3,
+ "demand": 5,
+ "date_led": "2026-10-18",
+ "sections": {
+  "what_happened": "Zelensky: US intel on incoming Russian ballistic missiles was blocked ~3 days ('We didn't see attacks'), then 'de-blocked by the American side. Now it works.' Starshield (militarized Starlink) speed restrictions continue; Zelensky does not know if Trump or Musk ordered them, believes 'both' involved. Hopes for talks with US on Oct 20-21.",
+  "what_verified": "Kyiv Independent and NY Post independently quote the same interview; aligns with 1700-scan Starshield reporting",
+  "what_disputed": "Pause duration (~3 days) is Zelensky's claim only; who ordered restrictions is unknown even to Zelensky (his 'both' belief is speculation — label as such).",
+  "why_matters": "Trump's squeeze play on Kyiv laid bare: intel switched off for 3 days while ballistic missiles fell. Zelensky calls it a 'historic mistake' to side with Moscow — the US-Ukraine rift deepens as the 1,000-drone strike lands.",
+  "context": "Background: Russia/Ukraine — NEW in-window: Zelensky confirms US intel sharing resumed after ~3-day blackout"
+ },
+ "totw_analysis": "Our read: Trump's squeeze play on Kyiv laid bare: intel switched off for 3 days while ballistic missiles fell. Zelensky calls it a 'historic mistake' to side with Moscow — the US-Ukraine rift deepens as the 1,000-drone strike lands. The fault line our audience is arguing over: Should the US hold back intelligence to pressure Ukraine into stopping refinery strikes — or is that siding with Russia?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1809,
+ "audio_chunks": [
+  "/assets/audio/totw-20261018-2200-02/full-00.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-01.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-02.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-03.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-04.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-05.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-06.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-07.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-08.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-09.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-10.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-11.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-12.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-13.mp3.b64",
+  "/assets/audio/totw-20261018-2200-02/full-14.mp3.b64"
+ ],
+ "audio_duration_secs": 140,
+ "audio_minutes": 2.3
+}

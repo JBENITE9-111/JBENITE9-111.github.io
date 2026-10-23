@@ -1,0 +1,43 @@
+{
+ "item_id": "totw-20261018-1700-03",
+ "headline": "Zelensky alleges Starlink restrictions throttling Ukrainian drones",
+ "dek": "Zelensky: Ukrainian forces can no longer use Starlink or Starshield 'to shoot down jet-powered shaheds' or guide battlefield drones — 'the maximum speed today is 161 kilometers per hour... Starlink shuts down, and we lose the drone'; restrictions apply on Ukrainian territory but not in the EU — 'a…",
+ "verification": "CONTESTED",
+ "verification_class": "warn",
+ "sources": "President Zelensky (statement Saturday) via CNN; Trump administration (denial)",
+ "fault_line": "Washington is sabotaging Ukraine's defenses to force a deal — or Kyiv is deflecting blame for battlefield setbacks?",
+ "significance": 2,
+ "demand": 4,
+ "date_led": "2026-10-18",
+ "sections": {
+  "what_happened": "Zelensky: Ukrainian forces can no longer use Starlink or Starshield 'to shoot down jet-powered shaheds' or guide battlefield drones — 'the maximum speed today is 161 kilometers per hour... Starlink shuts down, and we lose the drone'; restrictions apply on Ukrainian territory but not in the EU — 'a planned operation… to restrict us, cut us off.' The Trump administration denies restricting the service.",
+  "what_verified": "CNN carries both the allegation and the denial; no wire-independent technical confirmation located in-window.",
+  "what_disputed": "Trump administration denies restricting the service; SpaceX has not commented in the items located.",
+  "why_matters": "The 'how does America fight a war it stopped believing in' beat: Starlink limits (Ukraine's claim) + diesel-deal sanctions relief + blocked intel/aid threats (Kyiv Independent) as one thesis — the pressure campaign on Kyiv, stated by both sides. NEVER present the restriction as fact; frame is claim-vs-denial.",
+  "context": "Background: Ukraine — NEW in-window: Zelensky alleges Starlink restrictions throttling Ukrainian drones; Trump administration denies"
+ },
+ "totw_analysis": "Our read: The 'how does America fight a war it stopped believing in' beat: Starlink limits (Ukraine's claim) + diesel-deal sanctions relief + blocked intel/aid threats (Kyiv Independent) as one thesis — the pressure campaign on Kyiv, stated by both sides. NEVER present the restriction as fact; frame is claim-vs-denial. The fault line our audience is arguing over: Washington is sabotaging Ukraine's defenses to force a deal — or Kyiv is deflecting blame for battlefield setbacks?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2019,
+ "audio_chunks": [
+  "/assets/audio/totw-20261018-1700-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-12.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-13.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-14.mp3.b64",
+  "/assets/audio/totw-20261018-1700-03/full-15.mp3.b64"
+ ],
+ "audio_duration_secs": 144,
+ "audio_minutes": 2.4
+}
