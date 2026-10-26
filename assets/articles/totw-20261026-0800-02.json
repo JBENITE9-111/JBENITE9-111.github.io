@@ -1,0 +1,42 @@
+{
+ "item_id": "totw-20261026-0800-02",
+ "headline": "Saudi-led coalition destroys 2 ballistic missile launch platforms in Sanaa",
+ "dek": "The Saudi-led coalition says it destroyed 2 ballistic missile launch platforms in Yemen's Sanaa on Monday morning, the latest strike in the Saudi-Ansar Allah front that has seen Riyadh airport partly reopen Sunday after a two-week shutdown while Ansar Allah attacks continued.",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Saudi-led coalition statement via Reuters",
+ "fault_line": "Is the coalition degrading Ansar Allah launch capacity, or does every Sanaa strike buy another missile toward Riyadh?",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-10-26",
+ "sections": {
+  "what_happened": "The Saudi-led coalition says it destroyed 2 ballistic missile launch platforms in Yemen's Sanaa on Monday morning, the latest strike in the Saudi-Ansar Allah front that has seen Riyadh airport partly reopen Sunday after a two-week shutdown while Ansar Allah attacks continued.",
+  "what_verified": "Reuters-attributed live entries in JPost and Khaleej Times live blogs. Khaleej Times has NO declared tier in the source registry and is not counted toward corroboration; JPost's entry is 'By REUTERS', same family. Family count therefore 1 (Reuters), which is sufficient for a sig-2 item reported as an attributed coalition claim.",
+  "what_disputed": "No independent confirmation of the Sanaa damage in-window; Ansar Allah outlets have not confirmed this strike. The coalition's own Sunday interception claims (at least 10 ballistic missiles intercepted, via AFP/Dawn) and the Ansar Allah warning that Riyadh airport remains a 'military target' show the exchange is ongoing, not decided. Sunday's shrapnel injuries in Khamis Mushait/Ahad Rafidah were already recorded Oct 25 (1600-02/1700-01) and are not re-reported here.",
+  "why_matters": "While Riyadh's airport flies again, the coalition hits the launchers -- the war's second front, live.",
+  "context": "Background: Saudi-led coalition destroys 2 ballistic missile launch platforms in Sanaa"
+ },
+ "totw_analysis": "Our read: While Riyadh's airport flies again, the coalition hits the launchers -- the war's second front, live. The fault line our audience is arguing over: Is the coalition degrading Ansar Allah launch capacity, or does every Sanaa strike buy another missile toward Riyadh?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2006,
+ "audio_chunks": [
+  "/assets/audio/totw-20261026-0800-02/full-00.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-01.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-02.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-03.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-04.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-05.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-06.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-07.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-08.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-09.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-10.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-11.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-12.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-13.mp3.b64",
+  "/assets/audio/totw-20261026-0800-02/full-14.mp3.b64"
+ ],
+ "audio_duration_secs": 141,
+ "audio_minutes": 2.4
+}

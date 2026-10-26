@@ -1,0 +1,43 @@
+{
+ "item_id": "totw-20261026-0800-03",
+ "headline": "Netanyahu warns Iran may try to disrupt Israel election",
+ "dek": "Netanyahu warned Iran may try to disrupt Israel's Oct 27 general election ('don't test us'), days after he said (Wednesday) he had sent a directive to Israel's security forces to topple Iran's clerical state, and a day after Trump issued his second endorsement urging Israelis to vote for…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Benjamin Netanyahu X post (@netanyahu, Oct 25) via SCMP",
+ "fault_line": "Election-eve warning or wartime politics -- is Tehran really planning to disrupt the vote, or is the threat the message?",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-10-26",
+ "sections": {
+  "what_happened": "Netanyahu warned Iran may try to disrupt Israel's Oct 27 general election ('don't test us'), days after he said (Wednesday) he had sent a directive to Israel's security forces to topple Iran's clerical state, and a day after Trump issued his second endorsement urging Israelis to vote for Netanyahu. SCMP also reports Trump has sent a third aircraft carrier strike group toward the Persian Gulf and that US strikes could resume after the Nov 3 midterms.",
+  "what_verified": "Primary source (Netanyahu's own X post) + SCMP (T3) reporting. Trump's endorsement was already recorded at 0700-05 today; the election-disruption warning itself was not in any prior scan.",
+  "what_disputed": "No evidence presented in-window of an actual Iranian disruption plot -- the warning is a statement of intent/deterrence, not a confirmed plot. Army chief Lt Gen Eyal Zamir reportedly noted privately that a strike before the election was not operationally required (The Week, Oct 25). Opposition figures frame the Trump endorsement as a sign of desperation (Axios via 0700 record).",
+  "why_matters": "One day before Israel votes, Netanyahu warns Tehran: don't test us -- while Trump tells Israelis to vote for him.",
+  "context": "Background: Netanyahu warns Iran may try to disrupt Israel election: 'don't test us'"
+ },
+ "totw_analysis": "Our read: One day before Israel votes, Netanyahu warns Tehran: don't test us -- while Trump tells Israelis to vote for him. The fault line our audience is arguing over: Election-eve warning or wartime politics -- is Tehran really planning to disrupt the vote, or is the threat the message?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1970,
+ "audio_chunks": [
+  "/assets/audio/totw-20261026-0800-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-12.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-13.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-14.mp3.b64",
+  "/assets/audio/totw-20261026-0800-03/full-15.mp3.b64"
+ ],
+ "audio_duration_secs": 146,
+ "audio_minutes": 2.4
+}
