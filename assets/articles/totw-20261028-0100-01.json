@@ -1,0 +1,36 @@
+{
+ "item_id": "totw-20261028-0100-01",
+ "headline": "Updated exit polls, Eisenkot victory claim, Lapid 'crushing defeat' line, pro-government polls diverge sharply, CEC first results",
+ "dek": "UPDATED EXIT POLLS: Channel 13 updated poll moves Arab parties 17->18 and the Zionist anti-Netanyahu bloc 53->52 (B'Yachad 14->13, Joint List 10->11); pro-Netanyahu bloc unchanged at 50. Channel 12 updated poll keeps blocs at 52-50 but moves Democrats 9->10 and Yisrael Beytenu 9->8.",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Times of Israel liveblog Oct 27, 2026 (full read, crawled 00:58 Oct 28); Haaretz liveblog Oct 27, 2026; Jerusalem Post Oct 27, 2026 22:06/22:19",
+ "fault_line": "Which polls are real -- the mainstream three (Netanyahu bloc 50) or Channel 14's model (bloc 60, Likud 30)? And who gets the mandate: Likud as largest party, or Eisenkot as largest bloc -- with Arab parties holding 17-18",
+ "significance": 4,
+ "demand": 5,
+ "date_led": "2026-10-27",
+ "sections": {
+  "what_happened": "UPDATED EXIT POLLS: Channel 13 updated poll moves Arab parties 17->18 and the Zionist anti-Netanyahu bloc 53->52 (B'Yachad 14->13, Joint List 10->11); pro-Netanyahu bloc unchanged at 50. Channel 12 updated poll keeps blocs at 52-50 but moves Democrats 9->10 and Yisrael Beytenu 9->8.",
+  "what_verified": "Reported by the sources listed below; independent verification ongoing.",
+  "what_disputed": "No counter-evidence recorded in this scan.",
+  "why_matters": "",
+  "context": "Background: Updated exit polls, Eisenkot victory claim, Lapid 'crushing defeat' line, pro-government polls diverge sharply, CEC first results"
+ },
+ "totw_analysis": "Our read: The fault line our audience is arguing over: still forming.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1138,
+ "audio_chunks": [
+  "/assets/audio/totw-20261028-0100-01/full-00.mp3.b64",
+  "/assets/audio/totw-20261028-0100-01/full-01.mp3.b64",
+  "/assets/audio/totw-20261028-0100-01/full-02.mp3.b64",
+  "/assets/audio/totw-20261028-0100-01/full-03.mp3.b64",
+  "/assets/audio/totw-20261028-0100-01/full-04.mp3.b64",
+  "/assets/audio/totw-20261028-0100-01/full-05.mp3.b64",
+  "/assets/audio/totw-20261028-0100-01/full-06.mp3.b64",
+  "/assets/audio/totw-20261028-0100-01/full-07.mp3.b64",
+  "/assets/audio/totw-20261028-0100-01/full-08.mp3.b64"
+ ],
+ "audio_duration_secs": 78,
+ "audio_minutes": 1.3
+}
