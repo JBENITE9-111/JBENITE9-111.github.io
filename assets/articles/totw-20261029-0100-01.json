@@ -1,0 +1,39 @@
+{
+ "item_id": "totw-20261029-0100-01",
+ "headline": "UPDATE to totw-20261029-0000-07 (Israel election) -- count advances to 96.22% of ballots (Petek) / 88.62% of votes (Haaretz)",
+ "dek": "[ATTRIBUTED REPORT] The count advanced past the 0000 scan's standing 85.6%: the Petek tracker shows 96.22% of ballots counted at 21:03 (5,022,976 valid votes, 11,542 polling stations), while Haaretz's liveblog reports 88.62% of votes counted from the same 11,542 of 12,018 regular stations. DO NOT…",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "Petek CEC tracker; Haaretz liveblog; Reuters Oct 28",
+ "fault_line": "Frozen at 53-48-19 with 500k+ envelopes left -- can anyone govern without the 19 seats nobody will sit with?",
+ "significance": 2,
+ "demand": 5,
+ "date_led": "2026-10-28",
+ "sections": {
+  "what_happened": "[ATTRIBUTED REPORT] The count advanced past the 0000 scan's standing 85.6%: the Petek tracker shows 96.22% of ballots counted at 21:03 (5,022,976 valid votes, 11,542 polling stations), while Haaretz's liveblog reports 88.62% of votes counted from the same 11,542 of 12,018 regular stations. DO NOT…",
+  "what_verified": "Reported by the sources listed below; independent verification ongoing.",
+  "what_disputed": "No counter-evidence recorded in this scan.",
+  "why_matters": "",
+  "context": "Background: UPDATE to totw-20261029-0000-07 (Israel election) -- count advances to 96.22% of ballots (Petek) / 88.62% of votes (Haaretz)"
+ },
+ "totw_analysis": "Our read: The fault line our audience is arguing over: still forming.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1158,
+ "audio_chunks": [
+  "/assets/audio/totw-20261029-0100-01/full-00.mp3.b64",
+  "/assets/audio/totw-20261029-0100-01/full-01.mp3.b64",
+  "/assets/audio/totw-20261029-0100-01/full-02.mp3.b64",
+  "/assets/audio/totw-20261029-0100-01/full-03.mp3.b64",
+  "/assets/audio/totw-20261029-0100-01/full-04.mp3.b64",
+  "/assets/audio/totw-20261029-0100-01/full-05.mp3.b64",
+  "/assets/audio/totw-20261029-0100-01/full-06.mp3.b64",
+  "/assets/audio/totw-20261029-0100-01/full-07.mp3.b64",
+  "/assets/audio/totw-20261029-0100-01/full-08.mp3.b64",
+  "/assets/audio/totw-20261029-0100-01/full-09.mp3.b64",
+  "/assets/audio/totw-20261029-0100-01/full-10.mp3.b64",
+  "/assets/audio/totw-20261029-0100-01/full-11.mp3.b64"
+ ],
+ "audio_duration_secs": 110,
+ "audio_minutes": 1.8
+}

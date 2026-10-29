@@ -1,0 +1,40 @@
+{
+ "item_id": "totw-20261028-2000-06",
+ "headline": "NEW -- Yemen army claims 1,382 strikes 'neutralized' ~440 Ansar Allah fighters, gains in Taiz (claimant-only numbers)",
+ "dek": "[ATTRIBUTED REPORT] Yemen's armed forces said they carried out 1,382 strikes against Ansar Allah, claiming to have 'neutralized' approximately 440 fighters while securing new territorial gains in Taiz. CLAIMANT NUMBERS ONLY: no independent verification, no Ansar Allah response, and no named locations or…",
+ "verification": "ATTRIBUTED REPORT",
+ "verification_class": "muted",
+ "sources": "Yemen's armed forces (claimant), via Yeni Safak",
+ "fault_line": "Whose numbers? The army claims 440 neutralized; no independent count exists.",
+ "significance": 2,
+ "demand": 2,
+ "date_led": "2026-10-28",
+ "sections": {
+  "what_happened": "[ATTRIBUTED REPORT] Yemen's armed forces said they carried out 1,382 strikes against Ansar Allah, claiming to have 'neutralized' approximately 440 fighters while securing new territorial gains in Taiz. CLAIMANT NUMBERS ONLY: no independent verification, no Ansar Allah response, and no named locations or dates beyond Taiz were carried. Distinct front from the Oct 28 Aden strikes (totw-20261028-1800-02 HELD); do not merge Taiz and Aden tolls.",
+  "what_verified": "Single carrier, Yeni Safak, NO declared tier in the registry: 0 declared families. Claimant's own toll, uncorroborated.",
+  "what_disputed": "No independent verification retrieved; no Ansar Allah response carried; no second family carries the 1,382 / 440 figures.",
+  "why_matters": "Taiz front, army's numbers only: usable inside a Yemen roundup as an attributed claim, never as a confirmed toll or a standalone video.",
+  "context": "Background: NEW -- Yemen army claims 1,382 strikes 'neutralized' ~440 Ansar Allah fighters, gains in Taiz (claimant-only numbers)"
+ },
+ "totw_analysis": "Our read: Taiz front, army's numbers only: usable inside a Yemen roundup as an attributed claim, never as a confirmed toll or a standalone video. The fault line our audience is arguing over: Whose numbers? The army claims 440 neutralized; no independent count exists.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1757,
+ "audio_chunks": [
+  "/assets/audio/totw-20261028-2000-06/full-00.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-01.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-02.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-03.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-04.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-05.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-06.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-07.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-08.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-09.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-10.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-11.mp3.b64",
+  "/assets/audio/totw-20261028-2000-06/full-12.mp3.b64"
+ ],
+ "audio_duration_secs": 122,
+ "audio_minutes": 2.0
+}
