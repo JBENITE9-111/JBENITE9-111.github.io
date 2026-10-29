@@ -1,0 +1,39 @@
+{
+ "item_id": "totw-20261028-2000-03",
+ "headline": "Putin-Zelenskyy meeting to be set 'very soon'",
+ "dek": "[PRIMARY-SOURCE CLAIM] Trump said his administration was 'making a lot of progress with Russia-Ukraine' and 'There'll be a meeting set up very soon' involving Putin and Zelenskyy, while declining to rule out additional strikes on Iran after next week's midterm elections. No date, venue, or…",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "Donald Trump, remarks to reporters (Oct 28)",
+ "fault_line": "A real meeting, or another 'very soon' that never lands?",
+ "significance": 2,
+ "demand": 2,
+ "date_led": "2026-10-28",
+ "sections": {
+  "what_happened": "[PRIMARY-SOURCE CLAIM] Trump said his administration was 'making a lot of progress with Russia-Ukraine' and 'There'll be a meeting set up very soon' involving Putin and Zelenskyy, while declining to rule out additional strikes on Iran after next week's midterm elections. No date, venue, or confirmation from Moscow or Kyiv was retrieved. Distinct from the Støre record (totw-20261028-1800-07: first face-to-face Ukraine-Russia talks since February expected in Abu Dhabi next month) -- this is Trump's own 'very soon' version, not the Abu Dhabi date.",
+  "what_verified": "Times of India (T3) + Yeni Safak (UNDECLARED in registry, not counted) carry the same remarks. 1 declared family.",
+  "what_disputed": "No date, venue, or Moscow/Kyiv confirmation retrieved; Støre's Abu Dhabi expectation is 'next month', date unset.",
+  "why_matters": "Trump's 'very soon' vs Støre's Abu Dhabi next month: two clocks, no date. Pair the two; do not headline a meeting that has no date.",
+  "context": "Background: NEW -- Trump: Putin-Zelenskyy meeting to be set 'very soon'; declines to rule out additional Iran strikes after midterms"
+ },
+ "totw_analysis": "Our read: Trump's 'very soon' vs Støre's Abu Dhabi next month: two clocks, no date. Pair the two; do not headline a meeting that has no date. The fault line our audience is arguing over: A real meeting, or another 'very soon' that never lands?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1738,
+ "audio_chunks": [
+  "/assets/audio/totw-20261028-2000-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261028-2000-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261028-2000-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261028-2000-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261028-2000-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261028-2000-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261028-2000-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261028-2000-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261028-2000-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261028-2000-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261028-2000-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261028-2000-03/full-11.mp3.b64"
+ ],
+ "audio_duration_secs": 107,
+ "audio_minutes": 1.8
+}

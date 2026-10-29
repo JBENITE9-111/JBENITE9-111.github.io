@@ -1,0 +1,43 @@
+{
+ "item_id": "totw-20261028-1900-07",
+ "headline": "NEW STATEMENT -- US Energy Secretary Wright defends the Russian diesel waiver",
+ "dek": "US Energy Secretary Wright says the US is 'not going soft on Russia' with the diesel sanctions waiver, framing it as an incentive to end the war that on the margin helps global diesel supply (CNBC-TV18). Standing deal terms restated in the piece: Trump announced Russia would immediately supply…",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "US Energy Secretary Wright (via CNBC-TV18)",
+ "fault_line": "",
+ "significance": 2,
+ "demand": 2,
+ "date_led": "2026-10-28",
+ "sections": {
+  "what_happened": "US Energy Secretary Wright says the US is 'not going soft on Russia' with the diesel sanctions waiver, framing it as an incentive to end the war that on the margin helps global diesel supply (CNBC-TV18). Standing deal terms restated in the piece: Trump announced Russia would immediately supply more than 300,000 metric tons of diesel, followed by another 500,000 tons in November and a further 1 million tons thereafter, with the waiver set to run for six months. A bipartisan group of senators urged Trump to reverse course, calling the deal 'a gift to our adversary and a betrayal of our Allies'; Zelenskyy has criticised it. Analysts in the piece say the relief is limited: global diesel consumption is around 28 million barrels/day, so the initial 300,000 tons is roughly 75,000 b/d spread over a month (and the 500,000-ton tranche ~124,000 b/d), under a day of US transport-sector demand alone (2.94m b/d, EIA). No new waiver term, volume or shipment was announced in-window; this is a defence of the standing deal, so format is monitor only. CNBC-TV18 carries no declared tier in the registry -- reported with attribution, family_count 0.",
+  "what_verified": "CNBC-TV18 (undeclared tier) reporting Wright's statement -- attribution only, not counted. Deal terms and Senate/Zelenskyy criticism are restatements of the standing, previously covered deal.",
+  "what_disputed": "Bipartisan senators' 'gift to our adversary' criticism and Zelenskyy's criticism (both restated in the piece); analysts' limited-relief math (75k b/d vs 28m b/d global demand) undercuts the supply-relief framing.",
+  "why_matters": "",
+  "context": "Background: NEW STATEMENT -- US Energy Secretary Wright defends the Russian diesel waiver: 'not going soft on Russia'; waiver runs 6 months, tranches 300k + 500k + 1M tons"
+ },
+ "totw_analysis": "Our read: The fault line our audience is arguing over: still forming.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2279,
+ "audio_chunks": [
+  "/assets/audio/totw-20261028-1900-07/full-00.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-01.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-02.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-03.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-04.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-05.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-06.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-07.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-08.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-09.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-10.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-11.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-12.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-13.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-14.mp3.b64",
+  "/assets/audio/totw-20261028-1900-07/full-15.mp3.b64"
+ ],
+ "audio_duration_secs": 148,
+ "audio_minutes": 2.5
+}
