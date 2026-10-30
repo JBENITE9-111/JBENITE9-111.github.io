@@ -1,0 +1,42 @@
+{
+ "item_id": "totw-20261029-1700-03",
+ "headline": "UPDATE to totw-20261029-0700-06 (Aden airport attacks) -- Aden international airport reopens after temporary closure",
+ "dek": "[PRIMARY-SOURCE CLAIM] Yemen's transport minister announced Aden international airport has resumed operations after its temporary closure. The airport was closed Oct 28 after Ansar Allah (Ansar Allah) launched ballistic missiles at it -- the 6th attack on Aden airport in the current campaign (0700-06).",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "Yemen's transport minister, via Al Jazeera liveblog",
+ "fault_line": "Reopening an airport under missile fire: resilience or a target inviting the next strike?",
+ "significance": 2,
+ "demand": 4,
+ "date_led": "2026-10-29",
+ "sections": {
+  "what_happened": "[PRIMARY-SOURCE CLAIM] Yemen's transport minister announced Aden international airport has resumed operations after its temporary closure. The airport was closed Oct 28 after Ansar Allah (Ansar Allah) launched ballistic missiles at it -- the 6th attack on Aden airport in the current campaign (0700-06). Reopening is a resumption, not an end to the threat: the same AJ liveblog hour records Ansar Allah claiming 101 air strikes in the past 24 hours (10:15 GMT) and government air strikes on a Ansar Allah camp west of Taiz (12:20 GMT, see 1700-06). No casualty or damage update for the Aden strike itself is given in this entry.",
+  "what_verified": "Al Jazeera (T2, STATE QA) relaying the Yemeni transport minister -- 1 declared family, the announcing authority's own statement via one carrier.",
+  "what_disputed": "Reopening does not mean safe: Aden was attacked 6 times in this campaign and Saudi airports remain under repeated missile/drone attack (Riyadh Oct 10 terminal strike killed at least a dozen per Oct 23 reporting). No independent flight-operations confirmation retrieved in-window.",
+  "why_matters": "Aden airport is flying again hours after the 6th Ansar Allah missile attack on it -- the reopening that proves the Yemen air war is now routine.",
+  "context": "Background: UPDATE to totw-20261029-0700-06 (Aden airport attacks) -- Aden international airport reopens after temporary closure"
+ },
+ "totw_analysis": "Our read: Aden airport is flying again hours after the 6th Ansar Allah missile attack on it -- the reopening that proves the Yemen air war is now routine. The fault line our audience is arguing over: Reopening an airport under missile fire: resilience or a target inviting the next strike?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2151,
+ "audio_chunks": [
+  "/assets/audio/totw-20261029-1700-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-12.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-13.mp3.b64",
+  "/assets/audio/totw-20261029-1700-03/full-14.mp3.b64"
+ ],
+ "audio_duration_secs": 138,
+ "audio_minutes": 2.3
+}

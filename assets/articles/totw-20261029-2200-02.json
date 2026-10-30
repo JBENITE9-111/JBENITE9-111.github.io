@@ -1,0 +1,41 @@
+{
+ "item_id": "totw-20261029-2200-02",
+ "headline": "UPDATE + CLAIM-BUST to the Hormuz ship-on-fire thread -- UKMTO",
+ "dek": "[VERIFIED FACT - identification; ATTRIBUTED REPORT - incident details] UKMTO says regional authorities identified the vessel that sustained fire off the Omani coast as a dhow involved in a maritime security incident; a large fire onboard caused it to list and sink, and its crew has been evacuated.…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "UK Maritime Trade Operations (UKMTO) statement via Al Jazeera liveblog",
+ "fault_line": "Tanker war or fog of war? Every fire at Hormuz gets claimed as a tanker strike -- this one was a dhow. How much of the shipping-war picture is real, and how much is claim?",
+ "significance": 2,
+ "demand": 4,
+ "date_led": "2026-10-29",
+ "sections": {
+  "what_happened": "[VERIFIED FACT - identification; ATTRIBUTED REPORT - incident details] UKMTO says regional authorities identified the vessel that sustained fire off the Omani coast as a dhow involved in a maritime security incident; a large fire onboard caused it to list and sink, and its crew has been evacuated. The incident occurred 9 nautical miles (about 17 km) north of Khasab, Oman. This RESOLVES the previously unlinked UKMTO ship-on-fire report: it was a dhow, NOT one of the tankers in Iran's mine claims (1900-01 fourth tanker; 1300-01 southern-route three). Do not link the dhow to any tanker claim.",
+  "what_verified": "UKMTO (T1, OFFICIAL-PD) is itself the primary source for this incident report; the record states so explicitly per the single-family rule.",
+  "what_disputed": "No claimant has linked the dhow to the tanker mine claims; Iran's army/IRGC statements describe tankers, not dhows. Cause of the dhow fire (attack vs accident) is NOT stated by UKMTO in the retrieved entry -- do not call it an attack.",
+  "why_matters": "The 'ship on fire' at Hormuz was NOT a tanker: UKMTO identifies a dhow, crew evacuated, vessel sank -- a claim-busting correction inside the shipping-war thread",
+  "context": "Background: UPDATE + CLAIM-BUST to the Hormuz ship-on-fire thread -- UKMTO: the vessel on fire 9 nm north of Khasab was a DHOW, crew evacuated, vessel listed and sank -- not a tanker"
+ },
+ "totw_analysis": "Our read: The 'ship on fire' at Hormuz was NOT a tanker: UKMTO identifies a dhow, crew evacuated, vessel sank -- a claim-busting correction inside the shipping-war thread The fault line our audience is arguing over: Tanker war or fog of war? Every fire at Hormuz gets claimed as a tanker strike -- this one was a dhow. How much of the shipping-war picture is real, and how much is claim?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2178,
+ "audio_chunks": [
+  "/assets/audio/totw-20261029-2200-02/full-00.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-01.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-02.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-03.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-04.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-05.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-06.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-07.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-08.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-09.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-10.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-11.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-12.mp3.b64",
+  "/assets/audio/totw-20261029-2200-02/full-13.mp3.b64"
+ ],
+ "audio_duration_secs": 130,
+ "audio_minutes": 2.2
+}
