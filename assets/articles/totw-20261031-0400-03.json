@@ -1,0 +1,43 @@
+{
+ "item_id": "totw-20261031-0400-03",
+ "headline": "US orders non-emergency government employees and families to leave Saudi Arabia, effective Oct 23, citing Ansar Allah attacks on",
+ "dek": "[ATTRIBUTED REPORT -- embassy statement] The US ordered non-emergency government employees and family members to leave Saudi Arabia effective Oct 23 due to safety risks, citing Ansar Allah attacks on civilian airports and other critical infrastructure. US government employees now require special…",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "US Embassy Riyadh statement, Oct 30, via Jerusalem Post / Korea Times",
+ "fault_line": "Washington pulls its own people out of Saudi Arabia while telling Gulf allies to brace for Nov 4 -- precaution, or a tell that the next round is already decided?",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-10-31",
+ "sections": {
+  "what_happened": "[ATTRIBUTED REPORT -- embassy statement] The US ordered non-emergency government employees and family members to leave Saudi Arabia effective Oct 23 due to safety risks, citing Ansar Allah attacks on civilian airports and other critical infrastructure. US government employees now require special authorization to use Saudi airports; the embassy warned US citizens of potential further attacks, airspace closures, flight cancellations and travel disruptions. [CONTEXT -- verified in prior scans] Air India extended Saudi flight suspensions to Nov 14 (0300-04); Saudi air defences intercepted two ballistic missiles toward Riyadh Oct 29 (WSJ). The departure order is a consequence measure, not a new strike.",
+  "what_verified": "Jerusalem Post (T3) carries the embassy statement; Korea Times relay agrees but has no declared tier. Sig 2, so the sig>=3 two-family gate is not triggered.",
+  "what_disputed": "None; the order's effective date (Oct 23) predates its Oct 30 publicity, so it is not evidence of a new Oct 30-31 escalation by itself.",
+  "why_matters": "Washington just told its own non-emergency staff to leave Saudi Arabia -- the order was effective October 23, but only confirmed publicly on October 30, as airlines push suspensions to November 14.",
+  "context": "Background: MISSED CATCH-UP (confirmed Oct 30) -- US orders non-emergency government employees and families to leave Saudi Arabia, effective Oct 23, citing Ansar Allah attacks on civilian airports and critical infrastructure"
+ },
+ "totw_analysis": "Our read: Washington just told its own non-emergency staff to leave Saudi Arabia -- the order was effective October 23, but only confirmed publicly on October 30, as airlines push suspensions to November 14. The fault line our audience is arguing over: Washington pulls its own people out of Saudi Arabia while telling Gulf allies to brace for Nov 4 -- precaution, or a tell that the next round is already decided?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2377,
+ "audio_chunks": [
+  "/assets/audio/totw-20261031-0400-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-12.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-13.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-14.mp3.b64",
+  "/assets/audio/totw-20261031-0400-03/full-15.mp3.b64"
+ ],
+ "audio_duration_secs": 151,
+ "audio_minutes": 2.5
+}

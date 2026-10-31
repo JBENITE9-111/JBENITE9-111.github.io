@@ -1,0 +1,39 @@
+{
+ "item_id": "totw-20261031-0900-03",
+ "headline": "CARRY from 0500-01/0600-04/0700-04/0800-03 -- Zelenskyy-Erdogan Istanbul visit TODAY Oct 31",
+ "dek": "No outcome, arrival report, or news-conference readout appeared in the 08:00-09:00 window. All in-window returns are pre-window announcements (Oct 30) or republications of them.",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "Turkish Presidency Communications Director Burhanettin Duran (X) + Zelenskyy nightly address Oct 30, via Reuters/Kyiv Independent/Ukrinform",
+ "fault_line": "Black Sea ceasefire first, or talks about talks? Ankara's draft deal to halt attacks on civilian vessels vs a war still striking ships.",
+ "significance": 2,
+ "demand": 2,
+ "date_led": "2026-10-31",
+ "sections": {
+  "what_happened": "No outcome, arrival report, or news-conference readout appeared in the 08:00-09:00 window. All in-window returns are pre-window announcements (Oct 30) or republications of them. STALE-TRAP WARNING (carried): the Ukrainska Pravda/Gaze 'outcome' material describes the April 4, 2026 meeting, not today. Per the Oct 26 owner lock, abstract diplomacy without a number, warning, casualty or verifiable outcome is OUT — this carry produces nothing until the news conference yields an outcome.",
+  "what_verified": "Turkish presidency announcement corroborated by Reuters, Kyiv Independent, Ukrinform, Interfax-Ukraine (multiple families) for the VISIT; no family yet for any OUTCOME.",
+  "what_disputed": "None on the visit itself; the gap is outcome, not occurrence. Zelenskyy himself framed the talks as linked to November formats and a hoped-for Abu Dhabi trilateral Nov 6-10, not as a decision meeting today.",
+  "why_matters": "",
+  "context": "Background: CARRY from 0500-01/0600-04/0700-04/0800-03 -- Zelenskyy-Erdogan Istanbul visit TODAY Oct 31: STILL no outcome in the 08:00-09:00 window; meeting + news conference still pending later today"
+ },
+ "totw_analysis": "Our read: The fault line our audience is arguing over: Black Sea ceasefire first, or talks about talks? Ankara's draft deal to halt attacks on civilian vessels vs a war still striking ships.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1638,
+ "audio_chunks": [
+  "/assets/audio/totw-20261031-0900-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261031-0900-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261031-0900-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261031-0900-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261031-0900-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261031-0900-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261031-0900-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261031-0900-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261031-0900-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261031-0900-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261031-0900-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261031-0900-03/full-11.mp3.b64"
+ ],
+ "audio_duration_secs": 115,
+ "audio_minutes": 1.9
+}

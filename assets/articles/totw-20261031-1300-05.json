@@ -1,0 +1,43 @@
+{
+ "item_id": "totw-20261031-1300-05",
+ "headline": "'extremely worried' a second round in the US-Iran war 'will be more dangerous, more destructive, and it will lead to nowhere'",
+ "dek": "[VERIFIED FACT -- quote + venue] Egypt's Foreign Minister Badr Abdelatty said on Saturday he was 'extremely worried' that a new escalation in the US-Iran war would be more destructive and have a major impact, speaking at the IISS Manama Dialogue in Bahrain. Quote: 'The second round will be more…",
+ "verification": "VERIFIED",
+ "verification_class": "ok",
+ "sources": "Reuters (Manama) + Al Jazeera liveblog (speech report)",
+ "fault_line": "Warning that prevents war, or warning that prices it in? Does Cairo's 'more destructive' line move Washington, or just describe Nov 4?",
+ "significance": 2,
+ "demand": 4,
+ "date_led": "2026-10-31",
+ "sections": {
+  "what_happened": "[VERIFIED FACT -- quote + venue] Egypt's Foreign Minister Badr Abdelatty said on Saturday he was 'extremely worried' that a new escalation in the US-Iran war would be more destructive and have a major impact, speaking at the IISS Manama Dialogue in Bahrain. Quote: 'The second round will be more dangerous, more destructive, and it will lead to nowhere. We have to draw lessons from the past.' Reuters context: a June interim agreement failed to secure a lasting ceasefire or restore normal shipping through Hormuz.",
+  "what_verified": "2 counted families: Reuters (T1) reporting the speech directly + Al Jazeera (T2, STATE QA) liveblog reporting the speech directly. Straits Times/Arab News/Dawn/JPost relays of Reuters add no family.",
+  "what_disputed": "Counterweight inside the same window: IRGC spokesman Akraminia (1300-06) warns the flames of war would engulf a wider area -- the region is hearing warnings from both a mediator-adjacent capital (Cairo) and Tehran's military in the same hour. No party disputes that Abdelatty said this.",
+  "why_matters": "Cairo breaks the Doha optimism: Egypt warns round two will be 'more dangerous, more destructive' -- the Arab warning against the breakthrough headline",
+  "context": "Background: IN-WINDOW (AJ liveblog 08:40 GMT = 12:40 ; Reuters 08:20 UTC) -- Egypt FM Badr Abdelatty at IISS Manama Dialogue: 'extremely worried' a second round in the US-Iran war 'will be more dangerous, more destructive, and it will lead to nowhere'"
+ },
+ "totw_analysis": "Our read: Cairo breaks the Doha optimism: Egypt warns round two will be 'more dangerous, more destructive' -- the Arab warning against the breakthrough headline The fault line our audience is arguing over: Warning that prevents war, or warning that prices it in? Does Cairo's 'more destructive' line move Washington, or just describe Nov 4?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2281,
+ "audio_chunks": [
+  "/assets/audio/totw-20261031-1300-05/full-00.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-01.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-02.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-03.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-04.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-05.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-06.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-07.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-08.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-09.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-10.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-11.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-12.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-13.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-14.mp3.b64",
+  "/assets/audio/totw-20261031-1300-05/full-15.mp3.b64"
+ ],
+ "audio_duration_secs": 144,
+ "audio_minutes": 2.4
+}

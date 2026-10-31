@@ -1,0 +1,41 @@
+{
+ "item_id": "totw-20261031-0800-03",
+ "headline": "CARRY from 0500-01/0600-04/0700-04 -- Zelenskyy-Erdogan Istanbul visit TODAY Oct 31",
+ "dek": "[VERIFIED FACT -- visit + agenda, carried] Zelenskyy pays a working visit to Turkiye Oct 31 at Erdogan's invitation; Istanbul talks cover bilateral cooperation, the Russia-Ukraine war and Black Sea security, followed by a news conference. [VERIFIED FACT -- window check] No meeting outcome, joint…",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "Burhanettin Duran, Turkish Presidency communications director (X, Oct 30); Zelenskyy nightly address Oct 30 (Reuters); stale-trap identification via Straits Times/Reuters April 4 + UNN April 6",
+ "fault_line": "",
+ "significance": 2,
+ "demand": 1,
+ "date_led": "2026-10-31",
+ "sections": {
+  "what_happened": "[VERIFIED FACT -- visit + agenda, carried] Zelenskyy pays a working visit to Turkiye Oct 31 at Erdogan's invitation; Istanbul talks cover bilateral cooperation, the Russia-Ukraine war and Black Sea security, followed by a news conference. [VERIFIED FACT -- window check] No meeting outcome, joint statement, or news-conference readout was published in the 07:00-08:00 window (03:00-04:00 UTC). [STALE TRAP -- DO NOT USE] The Gaze article 'Zelenskyy and Erdogan Strengthen Cooperation in Security and Energy' (crawled in-window, no date shown) reproduces the APRIL 4, 2026 Istanbul meeting: its quote ('fundamental political willingness... teams will finalize the details in the coming days'), gas-infrastructure and gas-field items, and Telegram sourcing match verbatim the Straits Times/Reuters April 4 report and UNN's April 6 follow-up ('the day before yesterday in Istanbul'). It is NOT the Oct 31 outcome. Any production using it as today's outcome would be reporting a 7-month-old meeting as news.",
+  "what_verified": "Visit/announcement: Turkish presidency + Reuters (prior records). No-outcome finding: window sweep returned only Oct 30 announcements/recaps plus the April stale article.",
+  "what_disputed": "None on the visit itself; the risk is purely the stale-article trap identified above.",
+  "why_matters": "",
+  "context": "Background: CARRY from 0500-01/0600-04/0700-04 -- Zelenskyy-Erdogan Istanbul visit TODAY Oct 31: STILL no outcome in the 07:00-08:00 window; STALE-TRAP WARNING: The Gaze 'outcome' article is the April 4, 2026 meeting, not today"
+ },
+ "totw_analysis": "Our read: The fault line our audience is arguing over: still forming.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2054,
+ "audio_chunks": [
+  "/assets/audio/totw-20261031-0800-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-12.mp3.b64",
+  "/assets/audio/totw-20261031-0800-03/full-13.mp3.b64"
+ ],
+ "audio_duration_secs": 132,
+ "audio_minutes": 2.2
+}
